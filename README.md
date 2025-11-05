@@ -66,7 +66,7 @@ Once you have installed the **Aviator Predictor app**, you can start using its f
   The app uses advanced prediction algorithms like sha 512 and has been reported to have high accuracy rates based on historical data analysis.
   
 ## Contributing
-Community contributions are always welcome! If you're interested in improving the **aviator predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://Frontrunx.github.io/Aviator-Predictor/blob/main/CONTRIBUTING.md).
+Community contributions are always welcome! If you're interested in improving the **aviator predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://github.com/Frontrunx/Aviator-Predictor/blob/main/CONTRIBUTING.md).
 
 ## Support
 If you run into any problems or have questions about The aviator app, visit the “Releases” section for the latest updates and troubleshooting details. For additional help or to report issues, feel free to reach out through the “Issues” tab on this repository.
